@@ -1,0 +1,42 @@
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.exe
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.deps.json
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.dev.json
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\MINEDUCYT\source\repos\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.exe
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.deps.json
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.json
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.dev.json
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\MINEDUCYT\Downloads\Tarea3\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.exe
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.deps.json
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.dev.json
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\MINEDUCYT\Desktop\Tarea3 natAN\Tarea3\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.genruntimeconfig.cache
